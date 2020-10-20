@@ -24,4 +24,4 @@ Dr. S.D. Dewasurendra
 - [Computer algorithms - Wikipedia ](https://en.wikipedia.org/wiki/Algorithm#Computer_algorithms)
 - [Building an 8-bit breadboard computer! - Youtube](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 - [Open source project files- Github](https://github.com/NuwanJ/peraSAP-I)
- - [Project Page](http://nuwanjaliyagoda.esy.es/projects/8bit-computer) 
+ - [Project Page](http://nuwanjaliyagoda.com/projects/8bit-computer) 
