@@ -10,7 +10,7 @@ The whole design is based on SAP-I Architecture and design was obtained from Ben
 
 The project was started as a project for CO221: Digital Design Course, Department of Computer Engineering, University of Peradeniya.
 
-All the Printed Circuit boards were designed from the basics by us using Fritzing, fabricated by using the CNC, Builder_V3 and soldered and assembled by us. It took 2 months to complete the fabrications and another month for build motherboard (30x40cm) and debugging.
+All the Printed Circuit boards were designed from the basics by us using Fritzing, fabricated by using the CNC, Builder_V3 and soldered and assembled by us. It took 2 months to complete the fabrications and another month for build motherboard (30x40cm) and debugging. (If you like to have the PCB design files, please contact me, nuwanjaliyagoda@gmail.com)
 
 After the evolution of the project, we hope to make it free and open source under Apache License 2.0
 
@@ -18,7 +18,7 @@ After the evolution of the project, we hope to make it free and open source unde
 - Dr. Kamalanath Samarakoon for giving the idea & source materials about SAP-I
 Dr. S.D. Dewasurendra
 - Miss. Narmada Balasooriya, Miss. Thilini Dahanayaka and all the instructors on the Department of Computer Engineering
-- My team members; Suneth Samarasinghe, Pubudu Premathilake, Dilshani Karunarathne, Wishma Herath, Pasan Thennakoon & Irfan Mohommad
+- Team members; Suneth Samarasinghe, Pubudu Premathilake, Dilshani Karunarathne, Wishma Herath, Pasan Thennakoon & Irfan Mohommad
 
 ##### References:
 - [Computer algorithms - Wikipedia ](https://en.wikipedia.org/wiki/Algorithm#Computer_algorithms)
